@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak640&label=Profile%20views&color=0e75b6&style=flat" alt="deepak640" /> </p>
 
-- 🔭 I’m currently working on **Gemini prompt**
+- 🔭 I’m currently working on **GO language**
 
 - 🌱 I’m currently learning **React Native**
 
