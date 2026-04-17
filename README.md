@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **GO language**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GO Lang**
 
 - 👨‍💻 All of my projects are available at [https://akpo.netlify.app/](https://akpo.netlify.app/)
 
